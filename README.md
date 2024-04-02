@@ -3,6 +3,7 @@
 So far I've tackled various personal projects, ranging from websites to games and 3D game engines.
 
 Currently working on [TeaPot](https://github.com/NextLegacy/TeaPot), an general purpose 3D Engine for any Software you desire. Aiming to support a variety of Build Platforms.
+Pretty much just for learning purposes.
 
 And just in case you forgot; Stones can approuch lightspeed if you throw them hard enough!
 
