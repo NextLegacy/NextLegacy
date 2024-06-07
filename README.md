@@ -20,3 +20,6 @@ And just in case you forgot; Stones can approuch lightspeed if you throw them ha
 # Contact
 
 You're more than welcome to reach me on Discord under the username [@NextLegacy](https://discord.com/users/454663644437938177)
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; object-fit: fill !important; background-size: cover !important; background-repeat: no-repeat !important; opacity: 0.3; background: url('https://github.com/NextLegacy/NextLegacy/assets/60297572/06f62e86-2661-415b-a9c7-09ef9a74952e');]{x0000}$}
