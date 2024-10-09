@@ -19,4 +19,8 @@ And just in case you forgot; Stones can approuch lightspeed if you throw them ha
 
 # Contact
 
-You're more than welcome to reach me on Discord [@NextLegacy](https://discord.com/users/454663644437938177)
+You're more than welcome to reach me on Discord [@NextLegacy](https://discord.com/users/454663644437938177). 
+
+Also you can directly contact me using my Website https://nextlegacy.de/contact
+
+Also checkout my Website: https://nextlegacy.de :)
